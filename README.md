@@ -1,10 +1,13 @@
 # MineSweeper - The Coding Train
 
-<img src="readme/minesweeper.png" alt="Tela de Lançamento" width="256">
-<img src="readme/minesweeper_game.png" alt="Tela de Lançamento" width="256">
-<img src="readme/minesweeper_win.png" alt="Tela de Lançamento" width="256">
-<img src="readme/minesweeper_loser.png" alt="Tela de Lançamento" width="256">
-
+<div style="display: flex;">
+    <img src="readme/minesweeper.png" alt="Tela de Lançamento" width="384">
+    <img src="readme/minesweeper_game.png" alt="Tela de Lançamento" width="384">
+</div>
+<div style="display: flex;">
+    <img src="readme/minesweeper_win.png" alt="Tela de Lançamento" width="384">
+    <img src="readme/minesweeper_loser.png" alt="Tela de Lançamento" width="384">
+</div>
 
 ## Link para um vídeo no YouTube
 
